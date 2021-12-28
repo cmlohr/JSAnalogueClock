@@ -125,7 +125,6 @@ body {
   z-index: 99;
   top: -0.5329em;
   right: -0.5399em;
-  box-shadow: inset rgba(0, 0, 0, 0.4) 0.1em 0.1em 0.1em;
   border: 0.05em solid rgba(0, 0, 0, 0.1);
 }
 .twelve {
