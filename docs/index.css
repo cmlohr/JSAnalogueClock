@@ -182,10 +182,6 @@ body {
   transform: rotate(-90deg);
 }
 
-
-
-
-
 /*  sm btn styles  */
 .twitter-btn {
   position: absolute; margin: auto;
@@ -240,6 +236,7 @@ body {
   font-family: 'Raleway', sans-serif;
   font-weight: bold;
   color: #000;
+  z-index: -1;
 }
 .made-with-love i {
   font-style: normal;
