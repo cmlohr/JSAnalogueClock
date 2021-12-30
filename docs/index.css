@@ -247,6 +247,8 @@ body {
 }
 #coffee {
   font-size: 23px;
+  position: relative;
+  top: -3px;
 }
 .made-with-love a {
   color: #000;
