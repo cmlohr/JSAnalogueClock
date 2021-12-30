@@ -252,7 +252,7 @@ body {
 }
 /* underline animation */
 .made-with-love a {
-  color: #fff;
+  color: #000;
   text-decoration: none;
   letter-spacing: 0.15em;
   display: inline-block;
@@ -267,7 +267,7 @@ body {
   height: 1.5px;
   left: 50%;
   position: absolute;
-  background: #3626A7;
+  background: #B91372;
   transition: width 0.2s ease 0s, left 0.2s ease 0s;
   width: 0;
 }
