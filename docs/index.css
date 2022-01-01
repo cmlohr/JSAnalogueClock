@@ -209,13 +209,19 @@ body {
 }
 .fa-twitter {
   position: absolute;
-  left: 0em; right: .4em; top: .7em; bottom: 0;
+  left: .2em;
+  right: 0em;
+  top: 0.7em;
+  bottom: 0;
   color: #fff;
   font-size: 1.8em;
 }
 .fa-linkedin-in {
-   position: absolute;
-  left: .4em; right: 0em; top: .7em; bottom: 0;
+  position: absolute;
+  left: .8em;
+  right: 0em;
+  top: 0.7em;
+  bottom: 0;
   color: #fff;
   font-size: 1.8em;
 }
